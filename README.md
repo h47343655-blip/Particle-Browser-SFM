@@ -1,6 +1,6 @@
 # Particle-Browser-SFM
 
-current version **0.8.0**
+Current version **0.8.0**
 
 Particle Browser is a new particle system with a viewport and more features than the basic Particle Browser.
 
