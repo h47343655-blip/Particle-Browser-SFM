@@ -2,7 +2,7 @@
 
 Current version **0.8.5**
 
-Particle Browser is a new particle system with a viewport and more features than the basic Particle Browser.
+Particle Browser replaces SFM's particle picker: search every particle in all your games and mods, with a live preview viewport and more features than the stock picker.
 
 PLUGIN IS IN ***BETA*** — THERE MAY BE ***BUGS***
 
@@ -13,13 +13,18 @@ _v0.8.5 preview_
 -----------------------------------------
 # FAQ
 
-## How to Install
+## How to install
 
-Scripts > ParticleBrowser > Install Plus Menu Hook
+1. Unzip `scripts.zip` into `SourceFilmmaker\game\usermod\` (merge folders).
+2. Start SFM and run **Scripts > ParticleBrowser > Toggle At Startup** once. The browser then replaces the "+" menu item every time SFM starts.
+   To try it for one session only, use **Install Plus Menu Hook** instead.
 
 ## How to use
 
-Open Particle system > Find particle what you like > press spawn button > wait 1-2 sec > setting your particle (start time,emission and lifetime)
+1. In the Animation Set Editor press **+ > Create Animation Set for New Particle System…** (or **Scripts > ParticleBrowser > Open Particle Browser**).
+2. Find the particle you like and press **Use particle**.
+3. Wait 1-2 seconds: SFM's own window opens with the file and particle already filled in.
+4. Set start time, emission and lifetime there and press **OK**.
 
 -----------------------------------------
 # Credits
