@@ -6,7 +6,7 @@ Particle Browser replaces SFM's particle picker: search every particle in all yo
 
 PLUGIN IS IN ***BETA*** — THERE MAY BE ***BUGS***
 
-<img width="1175" height="738" alt="image" src="https://github.com/user-attachments/assets/24ecc1f0-20fe-4093-b87a-f0118de9ba19" />
+<img width="1175" height="739" alt="image" src="https://github.com/user-attachments/assets/abeee10c-aafb-478c-9dba-13a90e8bfb02" />
 
 _v0.8.5 preview_
 
