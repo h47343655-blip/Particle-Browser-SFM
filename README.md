@@ -10,11 +10,19 @@ PLUGIN IS IN ***BETA*** — THERE MAY BE ***BUGS***
 
 _v0.8.5 preview_
 
-## Install
+-----------------------------------------
+# FAQ
+
+## How to Install
 
 Scripts > ParticleBrowser > Install Plus Menu Hook
 
+## How to use
+
+Open Particle system > Find particle what you like > press spawn button > wait 1-2 sec > setting your particle (start time,emission and lifetime)
+
 -----------------------------------------
+# Credits
 
 Thanks to **Silverlan** and **magcius** (GitHub) for some of the sources.
 
